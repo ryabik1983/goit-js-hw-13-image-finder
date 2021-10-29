@@ -1,4 +1,3 @@
-const BASE_URL = 'https://pixabay.com/api/?image_type=photo&orientation=horizontal&q=что_искать&page=номер_страницы&per_page=12&key=твой_ключ'; 
 const API_KEY = '23935285-7259499af9fe05c3ca983c7fa';
 const BASE_URL = 'https://pixabay.com/api/';
 const MAIN_SEARCH_SETTINGS = '?image_type=photo&orientation=horizontal&';
